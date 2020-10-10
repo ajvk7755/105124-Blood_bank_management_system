@@ -1,0 +1,3 @@
+Joseph	21	o+ve	9380023258	raichur	20/03/2020
+akshay	22	b+ve	7204717930	bengaluru	21/03/2020
+anurag	30	ab+ve	7657875789	jaipur	15/4/2020	
