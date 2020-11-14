@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1605162307 source:c:\users\asus\desktop\ltts\mini-project\asr source code\aj\project\bloodbank\src\my_project.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1597966942 source:c:\users\asus\desktop\ltts\mini-project\asr source code\aj\project\bloodbank\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597966942 c:\users\asus\desktop\ltts\mini-project\asr source code\aj\project\bloodbank\unity\unity.h
+	"unity_internals.h"
+
+1597966942 c:\users\asus\desktop\ltts\mini-project\asr source code\aj\project\bloodbank\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
